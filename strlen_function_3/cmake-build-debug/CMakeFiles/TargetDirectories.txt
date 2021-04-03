@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/strlen_function_3/cmake-build-debug/CMakeFiles/strlen_function_3.dir
+C:/Users/shako/CLionProjects/strlen_function_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/strlen_function_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

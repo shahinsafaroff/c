@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/odd_even_counts/cmake-build-debug/CMakeFiles/odd_even_counts.dir
+C:/Users/shako/CLionProjects/odd_even_counts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/odd_even_counts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

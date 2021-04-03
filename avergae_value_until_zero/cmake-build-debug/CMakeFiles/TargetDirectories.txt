@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/avergae_value_until_zero/cmake-build-debug/CMakeFiles/avergae_value_until_zero.dir
+C:/Users/shako/CLionProjects/avergae_value_until_zero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/avergae_value_until_zero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

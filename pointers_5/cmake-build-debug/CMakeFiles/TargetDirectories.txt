@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/pointers_5/cmake-build-debug/CMakeFiles/pointers_5.dir
+C:/Users/shako/CLionProjects/pointers_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/pointers_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
