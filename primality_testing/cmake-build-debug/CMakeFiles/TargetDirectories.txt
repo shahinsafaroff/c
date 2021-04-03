@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/primality_testing/cmake-build-debug/CMakeFiles/primality_testing.dir
+C:/Users/shahins/CLionProjects/primality_testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/primality_testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

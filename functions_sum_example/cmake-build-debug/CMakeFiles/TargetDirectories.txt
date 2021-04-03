@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/functions_sum_example/cmake-build-debug/CMakeFiles/functions_sum_example.dir
+C:/Users/shahins/CLionProjects/functions_sum_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/functions_sum_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

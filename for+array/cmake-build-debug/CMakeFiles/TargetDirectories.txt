@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/for+array/cmake-build-debug/CMakeFiles/for_array.dir
+C:/Users/shahins/CLionProjects/for+array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/for+array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
